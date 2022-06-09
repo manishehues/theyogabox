@@ -319,3 +319,5 @@ exit(0);
 1654765566_6235:"Warning: 127.0.0.1; Post deleted: (multiple entries): Post id: 5256,Post author: 1,Post type: page,Post status: trash,Post inserted: 2022-05-09 15:18:10,Post modified: 2022-05-09 15:18:10,Post guid: https:\/\/www.theyogabox.com\/?page_id=5256,Post title: Sculpt Yoga - North Park"
 1654766856_4128:"Notice: 127.0.0.1; User authentication succeeded: wpcreative"
 1654768316_3658:"Critical: wpcreative, 127.0.0.1; WordPress updated to version: 6.0"
+1654770835_5759:"Notice: wpcreative, 127.0.0.1; Page was updated; ID: 3273; name: Diversity and Inclusion"
+1654770835_6251:"Notice: wpcreative, 127.0.0.1; Revision status has been changed; details: ID: 5664,Old status: new,New status: inherit,Title: Diversity and Inclusion"
